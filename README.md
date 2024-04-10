@@ -1,7 +1,7 @@
 # #100DaysOfCode Challenge: My Journey in Python and Java
 
 ## Introduction
-Welcome to my #100DaysOfCode Challenge! This is a personal commitment to code for at least an hour every day for the next 100 days, focusing on Python and Java. The primary goal of this challenge is to improve my programming skills and build a robust portfolio of projects.
+Welcome to my #100DaysOfCode Challenge! This is a personal commitment to code for at least an hour every day for the next 100 days, focusing on Python and Java, with a special emphasis on **Graph-based Algorithms**. The primary goal of this challenge is to improve my programming skills, with a particular emphasis on understanding and implementing various Graph-based Algorithms.
 
 ## Challenge Rules
 1. Code for at least an hour every day for the next 100 days.

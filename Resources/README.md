@@ -97,4 +97,7 @@
 - important open graph problems.
 
 ## OTHER RESOURCES:
-1. https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4
+
+1. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2008/pages/lecture-notes/
+
+2. https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4

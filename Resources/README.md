@@ -83,3 +83,6 @@
 - embedding subgraphs, 
 - challenges to future progress, and 
 - important open graph problems.
+
+## OTHER RESOURCES:
+1. https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4

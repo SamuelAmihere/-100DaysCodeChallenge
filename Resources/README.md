@@ -2,11 +2,32 @@
 # Resources
 
 ## Basics
-1. A GUIDE TO ALGORITHM DESIGN: Paradigms, Methods, and Complexity Analysis, Anne Benoit, Yves Robert, and Frédéric Vivien.
+### 1. A GUIDE TO ALGORITHM DESIGN: Paradigms, Methods, and Complexity Analysis, Anne Benoit, Yves Robert, and Frédéric Vivien.
 
 **Topics covered**
+- Polynomial-time algorithms
+- Divide-and-conquer
+- Greedy algorithms
+- Dynamic programming
+- Amortized analysis
+- NP-completeness
+- Reasoning to assess a problem complexity
+- Chains-on-chains partitioning
+- Replica placement in tree networks
+- Packet routing
+- Matrix product, or tiling the unit square
+- Online scheduling
 
-2. Network Science by Albert-László Barabási
+### 2. Algorithms Illuminated: Book Series by Tim Roughgarden.
+
+**Topics covered**
+- Graph algorithm basics, 
+- algorithms and data structures, 
+- greedy algorithms
+- dynamic programming
+- algorithms for NP-hard problems.
+
+### 3. Network Science by Albert-László Barabási
 
 **Topics covered**
 - Graph theory, 
@@ -20,7 +41,7 @@
 - spreading phenomena.
 
 
-3. Graph Theory with Applications to Engineering and Computer Science by Narsingh Deo.
+### 4. Graph Theory with Applications to Engineering and Computer Science by Narsingh Deo.
 
 **Topics covered**
 - aths and circuits
@@ -39,18 +60,9 @@
 - graph theory in operations research, and
 - survey of other applications.
 
-4. Algorithms Illuminated: Book Series by Tim Roughgarden.
-
-**Topics covered**
-- Graph algorithm basics, 
-- algorithms and data structures, 
-- greedy algorithms
-- dynamic programming
-- algorithms for NP-hard problems.
-
 
 ## Database based
-1. The Practitioner's Guide to Graph Data by Denise Gosnell Ph.D., Matthias Broecheler Ph.D.
+### 1. The Practitioner's Guide to Graph Data by Denise Gosnell Ph.D., Matthias Broecheler Ph.D.
 
 **Topics covered**
 - Graph thinking,
@@ -63,7 +75,7 @@
 - simple entity resolution in graphs.
 
 ## ML based
-1. Graph Machine Learning: Take graph data to the next level by applying machine learning techniques and algorithms.
+### 1. Graph Machine Learning: Take graph data to the next level by applying machine learning techniques and algorithms.
 
 **Topics covered**
 - Getting started with graphs, 
@@ -75,7 +87,7 @@
 - building a data-driven graph-powered application, and 
 - novel trends on graphs.
 
-2. Graph Representation Learning by William L. Hamilton, Rex Ying, and Jure Leskovec.
+### 2. Graph Representation Learning by William L. Hamilton, Rex Ying, and Jure Leskovec.
 
 **Topics covered**
 - The encoder-decoder perspective, 

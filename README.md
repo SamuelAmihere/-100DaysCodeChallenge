@@ -11,14 +11,14 @@ Welcome to my #100DaysOfCode Challenge! This is a personal commitment to code fo
 5. Stay Honest.
 
 ## Log
-### Day 0: April 10, 2024
+### Day 0: April 12, 2024
 **Today's Progress**: Set up the project's GitHub repository.
 
 **Thoughts**: I'm excited to start the challenge. I have decided to work on improving my Python and Java skills.
 
 **Link to Work**: [100DaysOfCode Repo](https://github.com/SamuelAmihere/100DaysCodeChallenge)
 
-### Day 1: April 11, 2024
+### Day 1: April 13, 2024
 **Today's Progress**: Refreshed Python and Java basics. Started with data structures.
 
 **Thoughts**:
